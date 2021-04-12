@@ -1,0 +1,7 @@
+{
+  "name": "DORP-bot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "\u0016",
+  "prefix": "-"
+}
